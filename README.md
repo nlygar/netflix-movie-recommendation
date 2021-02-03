@@ -2,7 +2,7 @@
 
 
 ## Business Problem 
-<p align="center">
+<p align="justify">
 Today, many companies use big data to make relevant recommendations and grow revenue.  From e-commerce to online advertisement Recommender systems (RS) are unavoidable in our daily life,  which is why they are very relevant subject in practice and research.  Netflix is one of the first to recognize the potential of recommending technology. In 2000, Netflix introduced personalised movie recommendations and in 2006, launched Netflix Prize, a machine learning and data mining competition for the best recommendation system algorithm for predicting user ratings on movies, based on a training set of more than 100 million ratings given by over 480,000 users to 17,700 movies.  The goal was to minimize the RMSE (root mean squared error) when predicting the ratings on the test dataset. Netflix’s own recommendation system (CineMatch) scores 0.9514 on the test dataset, and the grand challenge is to improve it by 10%. </p>
 
 ## Project Objective 

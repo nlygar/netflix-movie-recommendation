@@ -10,20 +10,29 @@ Today, many companies use big data to make relevant recommendations and grow rev
 This project will explore recommendation algorithms with a goal of developing a system that is both accurate and feasible to implement.
 
 
-## Methods Used
+## Methods used
+
 * Data Visualisation
 * k-Nearest Neighbour 
 
-## Technologies
 
-* Python 3
+## Pre-requisites
+
+* Python 3.5
 * Surprise: used for making recommendation system models
 * Anaconda
 * Jupyther notebook 
 * sklearn: ML library
-* seaborn, matplotlib.pyplot: Visualization libraries
+* seaborn, matplotlib: Visualization libraries
 * numpy, scipy: number python library
 * pandas: data handling library
+
+
+## Directory Structure
+
+* `src/` : Package folder which contains all the code files 
+* `data/` :  Contains the data 
+
 
 ## Sources 
 * https://www.netflixprize.com/rules.html
@@ -33,9 +42,9 @@ This project will explore recommendation algorithms with a goal of developing a 
 
 1. Clone the this repository.
 2. Download the data from the source. 
-3. Unzip the data in the data folder and make sure that the folder structure is as it follows: /data/Netflix_prize_data/
+3. Unzip the data in the data folder and make sure that the folder structure is as it follows: `/data/Netflix_prize_data/`
 4. Install all the dependencies
 ```
-  pip install requirements.txt 
+  pip3 install -r requirements.txt 
 ```
 

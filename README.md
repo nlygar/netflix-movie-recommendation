@@ -1,4 +1,4 @@
-# Netflix Movie Recommendation System¶
+# Memory-Based Recommendation System (RS)
 
 
 ## Business Problem 
